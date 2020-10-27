@@ -1,0 +1,1 @@
+C: && cd Users\chanchal.soni\android-sdks\emulator && emulator -avd EmulatorPixel32

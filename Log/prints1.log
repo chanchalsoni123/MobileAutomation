@@ -1,0 +1,994 @@
+[INFO ] 2020-07-30 14:41:13.986 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 14:41:13.986 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 14:41:14.006 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 14:41:14.006 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 14:41:14.006 [main] BaseClass - apk file fetched from the properties file src\app-debug.apk
+[INFO ] 2020-07-30 14:41:14.006 [main] BaseClass - apk file fetched from the properties file src\app-debug.apk
+[INFO ] 2020-07-30 14:41:14.006 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 14:41:14.006 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 14:41:14.006 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 14:41:14.006 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 14:41:24.005 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug.apk
+[INFO ] 2020-07-30 14:41:24.005 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug.apk
+[INFO ] 2020-07-30 14:41:24.005 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 14:41:24.005 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 14:41:24.006 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 14:41:24.006 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 14:41:24.006 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 14:41:24.006 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 14:41:24.006 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 14:41:24.006 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 14:41:24.006 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 14:41:24.006 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 14:41:24.006 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 14:41:24.006 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 14:41:24.006 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 14:41:24.006 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 14:41:24.078 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug.apk
+[INFO ] 2020-07-30 14:41:24.078 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug.apk
+[INFO ] 2020-07-30 14:41:24.078 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 14:41:24.078 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 14:41:24.078 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 14:41:24.078 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 14:41:24.079 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 14:41:24.079 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 14:41:24.079 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 14:41:24.079 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 14:41:24.079 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 14:41:24.079 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 14:41:24.079 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 14:41:24.079 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 14:41:24.079 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 14:41:24.079 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 14:42:31.308 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 14:42:31.308 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 14:42:31.312 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 14:42:31.312 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 14:49:50.560 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 14:49:50.560 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 14:49:50.562 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 14:49:50.562 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 14:49:50.562 [main] BaseClass - apk file fetched from the properties file src\app-debug.apk
+[INFO ] 2020-07-30 14:49:50.562 [main] BaseClass - apk file fetched from the properties file src\app-debug.apk
+[INFO ] 2020-07-30 14:49:50.562 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 14:49:50.562 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 14:49:50.562 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 14:49:50.562 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug.apk
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug.apk
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 14:50:00.575 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 14:50:32.702 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 14:50:32.702 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 14:50:32.766 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 14:50:32.766 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 14:50:33.255 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 14:50:33.255 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 14:50:48.256 [main] LoginTest - Application name sent to the base class
+[INFO ] 2020-07-30 14:51:10.471 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 14:51:10.471 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 14:51:11.781 [main] BaseClass - Screenshot taken and saved under screenshots folder
+[INFO ] 2020-07-30 14:51:11.781 [main] BaseClass - Screenshot taken and saved under screenshots folder
+[INFO ] 2020-07-30 14:51:11.786 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 14:51:11.786 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 14:51:11.787 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 14:51:11.787 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 14:51:11.787 [main] BaseClass - apk file fetched from the properties file src\app-debug.apk
+[INFO ] 2020-07-30 14:51:11.787 [main] BaseClass - apk file fetched from the properties file src\app-debug.apk
+[INFO ] 2020-07-30 14:51:11.787 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 14:51:11.787 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 14:51:11.787 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 14:51:11.787 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 14:51:21.818 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug.apk
+[INFO ] 2020-07-30 14:51:21.818 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug.apk
+[INFO ] 2020-07-30 14:51:21.818 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 14:51:21.818 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 14:51:21.819 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 14:51:21.819 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 14:51:21.819 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 14:51:21.819 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 14:51:21.819 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 14:51:21.819 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 14:51:21.820 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 14:51:21.820 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 14:51:21.820 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 14:51:21.820 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 14:51:21.820 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 14:51:21.820 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 14:51:46.907 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 14:51:46.907 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 14:51:46.914 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 14:51:46.914 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 14:51:47.198 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 14:51:47.198 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 14:52:02.198 [main] NotificationPageNavigationAfterLogin_Test - App name sent to the base class
+[INFO ] 2020-07-30 14:52:12.048 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 14:52:12.048 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 14:52:12.060 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 14:52:12.060 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 14:58:23.348 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 14:58:23.348 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 14:58:23.356 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 14:58:23.356 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 14:58:23.356 [main] BaseClass - apk file fetched from the properties file src\app-debug_nw.apk
+[INFO ] 2020-07-30 14:58:23.356 [main] BaseClass - apk file fetched from the properties file src\app-debug_nw.apk
+[INFO ] 2020-07-30 14:58:23.356 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 14:58:23.356 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 14:58:23.356 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 14:58:23.356 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 14:58:33.403 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug_nw.apk
+[INFO ] 2020-07-30 14:58:33.403 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug_nw.apk
+[INFO ] 2020-07-30 14:58:33.403 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 14:58:33.403 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 14:58:33.403 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 14:58:33.403 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 14:58:33.403 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 14:58:33.403 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 14:58:33.403 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 14:58:33.403 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 14:58:33.404 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 14:58:33.404 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 14:58:33.404 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 14:58:33.404 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 14:58:33.404 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 14:58:33.404 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 14:59:06.499 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 14:59:06.499 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 14:59:06.502 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 14:59:06.502 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:00:00.312 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:00:00.312 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:00:00.315 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:00:00.315 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:00:00.315 [main] BaseClass - apk file fetched from the properties file src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:00:00.315 [main] BaseClass - apk file fetched from the properties file src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:00:00.316 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:00:00.316 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:00:00.316 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:00:00.316 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:00:10.332 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:00:10.332 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:00:10.332 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:00:10.332 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:00:10.332 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:00:10.332 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:00:10.333 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:00:10.333 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:00:10.333 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:00:10.333 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:00:10.333 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:00:10.333 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:00:10.333 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:00:10.333 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:00:10.333 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:00:10.333 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:00:10.625 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:00:10.625 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:00:10.628 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:00:10.628 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:00:37.339 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:00:37.339 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:00:37.355 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:00:37.355 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:00:37.355 [main] BaseClass - apk file fetched from the properties file src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:00:37.355 [main] BaseClass - apk file fetched from the properties file src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:00:37.355 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:00:37.355 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:00:37.355 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:00:37.355 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:00:47.380 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:00:47.380 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:00:47.381 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:00:47.381 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:00:47.381 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:00:47.381 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:00:47.382 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:00:47.382 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:00:47.382 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:00:47.382 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:00:47.382 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:00:47.382 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:00:47.383 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:00:47.383 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:00:47.383 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:00:47.383 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:01:06.354 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:01:06.354 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:01:06.356 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:01:06.356 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:07:29.784 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:07:29.784 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:07:29.787 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:07:29.787 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:07:29.787 [main] BaseClass - apk file fetched from the properties file src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:07:29.787 [main] BaseClass - apk file fetched from the properties file src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:07:29.788 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:07:29.788 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:07:29.788 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:07:29.788 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:07:39.901 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:07:39.901 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:07:39.901 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:07:39.901 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:07:39.901 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:07:39.901 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:07:39.902 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:07:39.902 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:07:39.902 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:07:39.902 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:07:39.902 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:07:39.902 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:07:39.903 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:07:39.903 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:07:39.903 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:07:39.903 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:08:02.127 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:08:02.127 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:08:02.130 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:08:02.130 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:09:19.942 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:09:19.942 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:09:19.944 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:09:19.944 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:09:19.944 [main] BaseClass - apk file fetched from the properties file src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:09:19.944 [main] BaseClass - apk file fetched from the properties file src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:09:19.944 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:09:19.944 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:09:19.945 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:09:19.945 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:09:29.960 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:09:29.960 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:09:29.960 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:09:29.960 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:09:29.960 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:09:29.960 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:09:29.960 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:09:29.960 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:09:29.960 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:09:29.960 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:09:29.961 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:09:29.961 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:09:29.961 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:09:29.961 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:09:29.961 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:09:29.961 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:09:40.389 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:09:40.389 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:09:40.392 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:09:40.392 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 15:10:18.286 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:10:18.286 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:10:18.288 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:10:18.288 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:10:18.288 [main] BaseClass - apk file fetched from the properties file src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:10:18.288 [main] BaseClass - apk file fetched from the properties file src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:10:18.288 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:10:18.288 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:10:18.288 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:10:18.288 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:10:28.302 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:10:28.302 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug_nw.apk
+[INFO ] 2020-07-30 15:10:28.302 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:10:28.302 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:10:28.302 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:10:28.302 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:10:28.302 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:10:28.302 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:10:28.302 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:10:28.302 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:10:28.302 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:10:28.302 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:10:28.303 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:10:28.303 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:10:28.303 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:10:28.303 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:12:43.259 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:12:43.259 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:12:43.262 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:12:43.262 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:12:43.262 [main] BaseClass - apk file fetched from the properties file src\app-debug.apk
+[INFO ] 2020-07-30 15:12:43.262 [main] BaseClass - apk file fetched from the properties file src\app-debug.apk
+[INFO ] 2020-07-30 15:12:43.263 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:12:43.263 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:12:43.263 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:12:43.263 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:12:53.281 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug.apk
+[INFO ] 2020-07-30 15:12:53.281 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug.apk
+[INFO ] 2020-07-30 15:12:53.282 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:12:53.282 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:12:53.282 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:12:53.282 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:12:53.282 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:12:53.282 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:12:53.282 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:12:53.282 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:12:53.282 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:12:53.282 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:12:53.283 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:12:53.283 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:12:53.283 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:12:53.283 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:13:16.409 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 15:13:16.409 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 15:13:16.435 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 15:13:16.435 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 15:13:16.765 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 15:13:16.765 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 15:13:31.765 [main] Onboarding_Pet_Test - App name sent to the Base Class
+[DEBUG] 2020-07-30 15:13:34.516 [main] HomePage - Signup link clicked
+[INFO ] 2020-07-30 15:13:34.516 [main] Onboarding_Pet_Test - Redirected to the sign up page
+[INFO ] 2020-07-30 15:16:00.173 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:16:00.173 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:16:00.175 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:16:00.175 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:16:00.176 [main] BaseClass - apk file fetched from the properties file src\app-debug.apk
+[INFO ] 2020-07-30 15:16:00.176 [main] BaseClass - apk file fetched from the properties file src\app-debug.apk
+[INFO ] 2020-07-30 15:16:00.176 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:16:00.176 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:16:00.176 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:16:00.176 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:16:10.394 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug.apk
+[INFO ] 2020-07-30 15:16:10.394 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug.apk
+[INFO ] 2020-07-30 15:16:10.394 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:16:10.394 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:16:10.394 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:16:10.394 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:16:10.395 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:16:10.395 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:16:10.395 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:16:10.395 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:16:10.395 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:16:10.395 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:16:10.396 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:16:10.396 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:16:10.396 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:16:10.396 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:16:43.725 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 15:16:43.725 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 15:16:43.746 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 15:16:43.746 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 15:16:44.140 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 15:16:44.140 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 15:16:59.141 [main] Onboarding_Pet_Test - App name sent to the Base Class
+[DEBUG] 2020-07-30 15:17:04.592 [main] HomePage - Signup link clicked
+[INFO ] 2020-07-30 15:17:04.592 [main] Onboarding_Pet_Test - Redirected to the sign up page
+[DEBUG] 2020-07-30 15:17:07.727 [main] signUPage - Sign up button text stored into the actual var
+[ERROR] 2020-07-30 15:17:07.728 [main] Onboarding_Pet_Test - Validate that the sign up page is loaded
+[DEBUG] 2020-07-30 15:17:07.802 [main] signUPage - Email field clicked
+[DEBUG] 2020-07-30 15:17:09.179 [main] signUPage - Email field cleared
+[INFO ] 2020-07-30 15:17:09.970 [main] Onboarding_Pet_Test - Email is provided
+[DEBUG] 2020-07-30 15:17:10.553 [main] signUPage - Password field clicked
+[DEBUG] 2020-07-30 15:17:11.500 [main] signUPage - Password field provided
+[INFO ] 2020-07-30 15:17:11.962 [main] Onboarding_Pet_Test - Password is provided
+[DEBUG] 2020-07-30 15:17:12.531 [main] signUPage - Terms and services checkbox clicked
+[INFO ] 2020-07-30 15:17:12.531 [main] Onboarding_Pet_Test - Terms and condition selected
+[DEBUG] 2020-07-30 15:17:13.130 [main] signUPage - Signup button clicked
+[INFO ] 2020-07-30 15:17:13.130 [main] Onboarding_Pet_Test - Signup action taken and user successfully signed up
+[INFO ] 2020-07-30 15:23:27.748 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:23:27.748 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 15:23:27.751 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:23:27.751 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 15:23:27.751 [main] BaseClass - apk file fetched from the properties file src\app-debug.apk
+[INFO ] 2020-07-30 15:23:27.751 [main] BaseClass - apk file fetched from the properties file src\app-debug.apk
+[INFO ] 2020-07-30 15:23:27.751 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:23:27.751 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 15:23:27.751 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:23:27.751 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 15:23:38.029 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug.apk
+[INFO ] 2020-07-30 15:23:38.029 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\app-debug.apk
+[INFO ] 2020-07-30 15:23:38.029 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:23:38.029 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 15:23:38.029 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:23:38.029 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 15:23:38.029 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:23:38.029 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 15:23:38.029 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:23:38.029 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 15:23:38.029 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:23:38.029 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 15:23:38.030 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:23:38.030 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 15:23:38.030 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:23:38.030 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 15:24:12.933 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 15:24:12.933 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 15:24:12.965 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 15:24:12.965 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 15:24:13.056 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 15:24:13.056 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 15:24:28.056 [main] Onboarding_Pet_Test - App name sent to the Base Class
+[DEBUG] 2020-07-30 15:24:33.497 [main] HomePage - Signup link clicked
+[INFO ] 2020-07-30 15:24:33.497 [main] Onboarding_Pet_Test - Redirected to the sign up page
+[DEBUG] 2020-07-30 15:24:36.090 [main] signUPage - Sign up button text stored into the actual var
+[ERROR] 2020-07-30 15:24:36.091 [main] Onboarding_Pet_Test - Validate that the sign up page is loaded
+[DEBUG] 2020-07-30 15:24:36.172 [main] signUPage - Email field clicked
+[DEBUG] 2020-07-30 15:24:37.920 [main] signUPage - Email field cleared
+[INFO ] 2020-07-30 15:24:38.009 [main] Onboarding_Pet_Test - Email is provided
+[DEBUG] 2020-07-30 15:24:38.538 [main] signUPage - Password field clicked
+[DEBUG] 2020-07-30 15:24:39.823 [main] signUPage - Password field provided
+[INFO ] 2020-07-30 15:24:40.243 [main] Onboarding_Pet_Test - Password is provided
+[DEBUG] 2020-07-30 15:24:40.787 [main] signUPage - Terms and services checkbox clicked
+[INFO ] 2020-07-30 15:24:40.787 [main] Onboarding_Pet_Test - Terms and condition selected
+[DEBUG] 2020-07-30 15:24:42.078 [main] signUPage - Signup button clicked
+[INFO ] 2020-07-30 15:24:42.078 [main] Onboarding_Pet_Test - Signup action taken and user successfully signed up
+[INFO ] 2020-07-30 16:30:45.820 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 16:30:45.820 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 16:30:45.852 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 16:30:45.852 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 16:30:45.852 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:30:45.852 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:30:45.852 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 16:30:45.852 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 16:30:45.853 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 16:30:45.853 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 16:30:55.901 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:30:55.901 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:30:55.902 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 16:30:55.902 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 16:30:55.902 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 16:30:55.902 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 16:30:55.902 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 16:30:55.902 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 16:30:55.902 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 16:30:55.902 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 16:30:55.903 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 16:30:55.903 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 16:30:55.903 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 16:30:55.903 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 16:30:55.903 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 16:30:55.903 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 16:31:33.313 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 16:31:33.313 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 16:31:33.318 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 16:31:33.318 [main] BaseClass - Screenshot method called
+[INFO ] 2020-07-30 16:34:17.449 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 16:34:17.449 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 16:34:17.454 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 16:34:17.454 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 16:34:17.454 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:34:17.454 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:34:17.454 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 16:34:17.454 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 16:34:17.454 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 16:34:17.454 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 16:34:27.830 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:34:27.830 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:34:27.831 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 16:34:27.831 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 16:34:27.831 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 16:34:27.831 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 16:34:27.831 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 16:34:27.831 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 16:34:27.831 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 16:34:27.831 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 16:34:27.831 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 16:34:27.831 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 16:34:27.831 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 16:34:27.831 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 16:34:27.831 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 16:34:27.831 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 16:35:31.705 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 16:35:31.705 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 16:35:31.755 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 16:35:31.755 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 16:35:31.925 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 16:35:31.925 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 16:35:46.925 [main] LoginTest - Application name sent to the base class
+[DEBUG] 2020-07-30 16:35:49.834 [main] HomePage - Login link clicked
+[INFO ] 2020-07-30 16:35:49.834 [main] LoginTest - Redirected to the login page
+[DEBUG] 2020-07-30 16:35:52.482 [main] LoginPage - Email field clicked
+[DEBUG] 2020-07-30 16:35:54.347 [main] LoginPage - Email field cleared
+[DEBUG] 2020-07-30 16:35:55.331 [main] LoginPage - Email ID sent to the email field
+[INFO ] 2020-07-30 16:35:55.331 [main] LoginTest - Email Id provided
+[DEBUG] 2020-07-30 16:35:56.605 [main] LoginPage - password field clicked
+[DEBUG] 2020-07-30 16:35:57.584 [main] LoginPage - password field cleared
+[DEBUG] 2020-07-30 16:35:58.042 [main] LoginPage - password sent to the password field
+[INFO ] 2020-07-30 16:35:58.042 [main] LoginTest - Password provided
+[DEBUG] 2020-07-30 16:35:58.996 [main] LoginPage - Login link clickded
+[INFO ] 2020-07-30 16:35:58.996 [main] LoginTest - Login action taken successfully
+[INFO ] 2020-07-30 16:35:59.004 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 16:35:59.004 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 16:35:59.004 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 16:35:59.004 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 16:35:59.005 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:35:59.005 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:35:59.005 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 16:35:59.005 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 16:35:59.005 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 16:35:59.005 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 16:36:09.021 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:36:09.021 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:36:09.022 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 16:36:09.022 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 16:36:09.022 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 16:36:09.022 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 16:36:09.023 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 16:36:09.023 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 16:36:09.023 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 16:36:09.023 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 16:36:09.023 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 16:36:09.023 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 16:36:09.024 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 16:36:09.024 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 16:36:09.024 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 16:36:09.024 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 16:36:39.604 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 16:36:39.604 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 16:36:39.612 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 16:36:39.612 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 16:36:39.724 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 16:36:39.724 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 16:36:54.724 [main] NotificationPageNavigationAfterLogin_Test - App name sent to the base class
+[DEBUG] 2020-07-30 16:36:55.375 [main] HomePage - Login link clicked
+[INFO ] 2020-07-30 16:36:55.375 [main] NotificationPageNavigationAfterLogin_Test - Redirected to the login page
+[DEBUG] 2020-07-30 16:36:57.168 [main] LoginPage - Email field clicked
+[DEBUG] 2020-07-30 16:36:59.059 [main] LoginPage - Email field cleared
+[INFO ] 2020-07-30 16:37:00.202 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 16:37:00.202 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 16:37:00.202 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 16:37:00.202 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 16:37:00.203 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:37:00.203 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:37:00.203 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 16:37:00.203 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 16:37:00.203 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 16:37:00.203 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 16:37:10.231 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:37:10.231 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:37:10.232 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 16:37:10.232 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 16:37:10.232 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 16:37:10.232 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 16:37:10.232 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 16:37:10.232 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 16:37:10.233 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 16:37:10.233 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 16:37:10.233 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 16:37:10.233 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 16:37:10.233 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 16:37:10.233 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 16:37:10.234 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 16:37:10.234 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 16:37:35.923 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 16:37:35.923 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 16:37:35.937 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 16:37:35.937 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 16:37:36.030 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 16:37:36.030 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 16:37:51.030 [main] Onboarding_Pet_Test - App name sent to the Base Class
+[DEBUG] 2020-07-30 16:37:52.832 [main] HomePage - Signup link clicked
+[INFO ] 2020-07-30 16:37:52.833 [main] Onboarding_Pet_Test - Redirected to the sign up page
+[DEBUG] 2020-07-30 16:37:57.090 [main] signUPage - Sign up button text stored into the actual var
+[ERROR] 2020-07-30 16:37:57.266 [main] Onboarding_Pet_Test - Validate that the sign up page is loaded
+[DEBUG] 2020-07-30 16:37:57.351 [main] signUPage - Email field clicked
+[DEBUG] 2020-07-30 16:37:59.451 [main] signUPage - Email field cleared
+[INFO ] 2020-07-30 16:37:59.532 [main] Onboarding_Pet_Test - Email is provided
+[DEBUG] 2020-07-30 16:38:00.277 [main] signUPage - Password field clicked
+[DEBUG] 2020-07-30 16:38:01.239 [main] signUPage - Password field provided
+[INFO ] 2020-07-30 16:38:01.992 [main] Onboarding_Pet_Test - Password is provided
+[DEBUG] 2020-07-30 16:38:02.683 [main] signUPage - Terms and services checkbox clicked
+[INFO ] 2020-07-30 16:38:02.683 [main] Onboarding_Pet_Test - Terms and condition selected
+[DEBUG] 2020-07-30 16:38:04.117 [main] signUPage - Signup button clicked
+[INFO ] 2020-07-30 16:38:04.118 [main] Onboarding_Pet_Test - Signup action taken and user successfully signed up
+[INFO ] 2020-07-30 16:58:26.132 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 16:58:26.132 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 16:58:26.156 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 16:58:26.156 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 16:58:26.156 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:58:26.156 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:58:26.156 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 16:58:26.156 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 16:58:26.157 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 16:58:26.157 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 16:58:36.272 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:58:36.272 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 16:58:36.272 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 16:58:36.272 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 16:58:36.272 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 16:58:36.272 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 16:58:36.272 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 16:58:36.272 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 16:58:36.273 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 16:58:36.273 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 16:58:36.273 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 16:58:36.273 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 16:58:36.273 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 16:58:36.273 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 16:58:36.273 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 16:58:36.273 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 16:59:35.338 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 16:59:35.338 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 16:59:35.384 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 16:59:35.384 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 16:59:36.364 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 16:59:36.364 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 16:59:51.366 [main] LoginTest - Application name sent to the base class
+[DEBUG] 2020-07-30 16:59:56.551 [main] HomePage - Login link clicked
+[INFO ] 2020-07-30 16:59:56.551 [main] LoginTest - Redirected to the login page
+[INFO ] 2020-07-30 17:00:17.040 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 17:00:17.040 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 17:00:17.041 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 17:00:17.041 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 17:00:17.041 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:00:17.041 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:00:17.041 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 17:00:17.041 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 17:00:17.041 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 17:00:17.041 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 17:00:27.431 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:00:27.431 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:00:27.431 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 17:00:27.431 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 17:00:27.431 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 17:00:27.431 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 17:00:27.431 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 17:00:27.431 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 17:00:27.432 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 17:00:27.432 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 17:00:27.432 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 17:00:27.432 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 17:00:27.432 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 17:00:27.432 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 17:00:27.432 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 17:00:27.432 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 17:01:01.390 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 17:01:01.390 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 17:01:01.402 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 17:01:01.402 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 17:01:01.518 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 17:01:01.518 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 17:01:16.518 [main] NotificationPageNavigationAfterLogin_Test - App name sent to the base class
+[DEBUG] 2020-07-30 17:01:17.518 [main] HomePage - Login link clicked
+[INFO ] 2020-07-30 17:01:17.518 [main] NotificationPageNavigationAfterLogin_Test - Redirected to the login page
+[DEBUG] 2020-07-30 17:01:19.936 [main] LoginPage - Email field clicked
+[DEBUG] 2020-07-30 17:01:21.803 [main] LoginPage - Email field cleared
+[DEBUG] 2020-07-30 17:01:22.478 [main] LoginPage - Email ID sent to the email field
+[INFO ] 2020-07-30 17:01:22.479 [main] NotificationPageNavigationAfterLogin_Test - Email ID provided
+[DEBUG] 2020-07-30 17:01:23.184 [main] LoginPage - password field clicked
+[DEBUG] 2020-07-30 17:01:24.173 [main] LoginPage - password field cleared
+[DEBUG] 2020-07-30 17:01:25.195 [main] LoginPage - password sent to the password field
+[INFO ] 2020-07-30 17:01:25.195 [main] NotificationPageNavigationAfterLogin_Test - Password provided
+[DEBUG] 2020-07-30 17:01:26.831 [main] LoginPage - Login link clickded
+[INFO ] 2020-07-30 17:01:26.831 [main] NotificationPageNavigationAfterLogin_Test - Login action performed successfully and user landed to the Dashboard
+[DEBUG] 2020-07-30 17:01:38.666 [main] PetDashboard - Bell button clicked
+[INFO ] 2020-07-30 17:01:38.666 [main] NotificationPageNavigationAfterLogin_Test - User redirected to the notification page
+[DEBUG] 2020-07-30 17:01:40.801 [main] BaseClass - Clear all button text stored into the actual var
+[DEBUG] 2020-07-30 17:01:40.801 [main] BaseClass - Clear all button text stored into the actual var
+[INFO ] 2020-07-30 17:01:41.009 [main] NotificationPageNavigationAfterLogin_Test - Notification page load is validated
+[INFO ] 2020-07-30 17:01:41.024 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 17:01:41.024 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 17:01:41.024 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 17:01:41.024 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 17:01:41.025 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:01:41.025 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:01:41.026 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 17:01:41.026 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 17:01:41.027 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 17:01:41.027 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 17:01:51.088 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:01:51.088 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:01:51.089 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 17:01:51.089 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 17:01:51.089 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 17:01:51.089 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 17:01:51.089 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 17:01:51.089 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 17:01:51.090 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 17:01:51.090 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 17:01:51.090 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 17:01:51.090 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 17:01:51.091 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 17:01:51.091 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 17:01:51.091 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 17:01:51.091 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 17:02:17.258 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 17:02:17.258 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 17:02:17.270 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 17:02:17.270 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 17:02:17.374 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 17:02:17.374 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 17:02:32.376 [main] Onboarding_Pet_Test - App name sent to the Base Class
+[DEBUG] 2020-07-30 17:02:34.028 [main] HomePage - Signup link clicked
+[INFO ] 2020-07-30 17:02:34.028 [main] Onboarding_Pet_Test - Redirected to the sign up page
+[DEBUG] 2020-07-30 17:02:37.886 [main] signUPage - Sign up button text stored into the actual var
+[ERROR] 2020-07-30 17:02:37.886 [main] Onboarding_Pet_Test - Validate that the sign up page is loaded
+[DEBUG] 2020-07-30 17:02:37.976 [main] signUPage - Email field clicked
+[DEBUG] 2020-07-30 17:02:40.110 [main] signUPage - Email field cleared
+[INFO ] 2020-07-30 17:02:40.781 [main] Onboarding_Pet_Test - Email is provided
+[INFO ] 2020-07-30 17:05:40.423 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 17:05:40.423 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 17:05:40.427 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 17:05:40.427 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 17:05:40.427 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:05:40.427 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:05:40.427 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 17:05:40.427 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 17:05:40.427 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 17:05:40.427 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 17:05:50.542 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:05:50.542 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:05:50.543 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 17:05:50.543 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 17:05:50.543 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 17:05:50.543 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 17:05:50.543 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 17:05:50.543 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 17:05:50.544 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 17:05:50.544 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 17:05:50.544 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 17:05:50.544 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 17:05:50.545 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 17:05:50.545 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 17:05:50.545 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 17:05:50.545 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 17:06:14.244 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 17:06:14.244 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 17:06:14.293 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 17:06:14.293 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 17:06:14.461 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 17:06:14.461 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 17:06:29.461 [main] Onboarding_Pet_Test - App name sent to the Base Class
+[DEBUG] 2020-07-30 17:06:31.361 [main] HomePage - Signup link clicked
+[INFO ] 2020-07-30 17:06:31.361 [main] Onboarding_Pet_Test - Redirected to the sign up page
+[DEBUG] 2020-07-30 17:06:34.005 [main] signUPage - Sign up button text stored into the actual var
+[ERROR] 2020-07-30 17:06:34.007 [main] Onboarding_Pet_Test - Validate that the sign up page is loaded
+[DEBUG] 2020-07-30 17:06:34.100 [main] signUPage - Email field clicked
+[DEBUG] 2020-07-30 17:06:35.884 [main] signUPage - Email field cleared
+[INFO ] 2020-07-30 17:06:35.995 [main] Onboarding_Pet_Test - Email is provided
+[DEBUG] 2020-07-30 17:06:36.595 [main] signUPage - Password field clicked
+[DEBUG] 2020-07-30 17:06:37.544 [main] signUPage - Password field provided
+[INFO ] 2020-07-30 17:06:37.984 [main] Onboarding_Pet_Test - Password is provided
+[DEBUG] 2020-07-30 17:06:38.557 [main] signUPage - Terms and services checkbox clicked
+[INFO ] 2020-07-30 17:06:38.557 [main] Onboarding_Pet_Test - Terms and condition selected
+[DEBUG] 2020-07-30 17:06:39.925 [main] signUPage - Signup button clicked
+[INFO ] 2020-07-30 17:06:39.925 [main] Onboarding_Pet_Test - Signup action taken and user successfully signed up
+[INFO ] 2020-07-30 17:10:52.333 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 17:10:52.333 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 17:10:52.339 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 17:10:52.339 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 17:10:52.339 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:10:52.339 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:10:52.339 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 17:10:52.339 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 17:10:52.339 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 17:10:52.339 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 17:11:02.420 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:11:02.420 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:11:02.421 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 17:11:02.421 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 17:11:02.421 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 17:11:02.421 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 17:11:02.422 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 17:11:02.422 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 17:11:02.422 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 17:11:02.422 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 17:11:02.423 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 17:11:02.423 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 17:11:02.424 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 17:11:02.424 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 17:11:02.424 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 17:11:02.424 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 17:12:24.086 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 17:12:24.086 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 17:12:24.457 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 17:12:24.457 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 17:12:25.681 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 17:12:25.681 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 17:12:40.683 [main] Onboarding_Pet_Test - App name sent to the Base Class
+[INFO ] 2020-07-30 17:14:18.054 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 17:14:18.054 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 17:14:18.059 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 17:14:18.059 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 17:14:18.059 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:14:18.059 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:14:18.059 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 17:14:18.059 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 17:14:18.059 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 17:14:18.059 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 17:14:28.117 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:14:28.117 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:14:28.118 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 17:14:28.118 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 17:14:28.118 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 17:14:28.118 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 17:14:28.118 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 17:14:28.118 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 17:14:28.119 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 17:14:28.119 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 17:14:28.120 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 17:14:28.120 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 17:14:28.122 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 17:14:28.122 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 17:14:28.126 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 17:14:28.126 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 17:15:24.395 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 17:15:24.395 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 17:15:24.414 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 17:15:24.414 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 17:15:24.961 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 17:15:24.961 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 17:15:39.961 [main] LoginTest - Application name sent to the base class
+[DEBUG] 2020-07-30 17:15:41.792 [main] HomePage - Login link clicked
+[INFO ] 2020-07-30 17:15:41.792 [main] LoginTest - Redirected to the login page
+[DEBUG] 2020-07-30 17:15:44.773 [main] LoginPage - Email field clicked
+[DEBUG] 2020-07-30 17:15:46.096 [main] LoginPage - Email field cleared
+[DEBUG] 2020-07-30 17:15:48.234 [main] LoginPage - Email ID sent to the email field
+[INFO ] 2020-07-30 17:15:48.235 [main] LoginTest - Email Id provided
+[DEBUG] 2020-07-30 17:15:49.547 [main] LoginPage - password field clicked
+[DEBUG] 2020-07-30 17:15:50.759 [main] LoginPage - password field cleared
+[DEBUG] 2020-07-30 17:15:51.603 [main] LoginPage - password sent to the password field
+[INFO ] 2020-07-30 17:15:51.603 [main] LoginTest - Password provided
+[DEBUG] 2020-07-30 17:15:52.577 [main] LoginPage - Login link clickded
+[INFO ] 2020-07-30 17:15:52.577 [main] LoginTest - Login action taken successfully
+[INFO ] 2020-07-30 17:17:00.677 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 17:17:00.677 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 17:17:00.682 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 17:17:00.682 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 17:17:00.682 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:17:00.682 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:17:00.682 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 17:17:00.682 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 17:17:00.683 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 17:17:00.683 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 17:17:10.801 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:17:10.801 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:17:10.802 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 17:17:10.802 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 17:17:10.803 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 17:17:10.803 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 17:17:10.803 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 17:17:10.803 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 17:17:10.803 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 17:17:10.803 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 17:17:10.804 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 17:17:10.804 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 17:17:10.805 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 17:17:10.805 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 17:17:10.805 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 17:17:10.805 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 17:17:52.967 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 17:17:52.967 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 17:17:52.986 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 17:17:52.986 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 17:17:53.369 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 17:17:53.369 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 17:18:08.371 [main] Onboarding_Pet_Test - App name sent to the Base Class
+[DEBUG] 2020-07-30 17:18:12.301 [main] HomePage - Signup link clicked
+[INFO ] 2020-07-30 17:18:12.302 [main] Onboarding_Pet_Test - Redirected to the sign up page
+[INFO ] 2020-07-30 17:29:17.214 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 17:29:17.214 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 17:29:17.325 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 17:29:17.325 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 17:29:17.325 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:29:17.325 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:29:17.325 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 17:29:17.325 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 17:29:17.325 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 17:29:17.325 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 17:29:28.576 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 17:34:11.746 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 17:34:11.746 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 17:34:11.929 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 17:34:11.929 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 17:34:12.531 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 17:34:12.531 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 17:34:27.533 [main] LoginTest - Application name sent to the base class
+[INFO ] 2020-07-30 18:08:18.094 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 18:08:18.094 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 18:08:18.098 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 18:08:18.098 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 18:08:18.098 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 18:08:18.098 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 18:08:18.098 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 18:08:18.098 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 18:08:18.098 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 18:08:18.098 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 18:08:28.878 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 18:08:28.878 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 18:08:28.878 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 18:08:28.878 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 18:08:28.878 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 18:08:28.878 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 18:08:28.878 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 18:08:28.878 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 18:08:28.878 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 18:08:28.878 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 18:08:28.878 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 18:08:28.878 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 18:08:28.878 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 18:08:28.878 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 18:08:29.423 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 18:08:29.423 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 18:10:16.942 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 18:10:16.942 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 18:10:17.005 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 18:10:17.005 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 18:10:17.312 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 18:10:17.312 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 18:10:32.312 [main] LoginTest - Application name sent to the base class
+[INFO ] 2020-07-30 18:11:48.879 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 18:11:48.879 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 18:11:48.888 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 18:11:48.888 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 18:11:48.888 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 18:11:48.888 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 18:11:48.888 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 18:11:48.888 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 18:11:48.888 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 18:11:48.888 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 18:11:59.051 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 18:12:43.447 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 18:12:43.447 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 18:12:43.450 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 18:12:43.450 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 18:12:43.451 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 18:12:43.451 [main] BaseClass - apk file fetched from the properties file src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 18:12:43.451 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 18:12:43.451 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 18:12:43.451 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 18:12:43.451 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - App capabilities setD:\New folder\AutomationTest\src\stage-app-debug (1).apk
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - App Platform capability set as Android
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - Device name capabilities set = EmulatorPixel32
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - Platform version capabilities set as Version 9
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - Automation Name capability set as UiAutomator2
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - UDID capability set as RZ8M235WTDK
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - App package capability set as us.petzey.apppetzey
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 18:12:53.507 [main] BaseClass - App activity capability set as us.petzey.apppetzey.MainActivity
+[INFO ] 2020-07-30 18:13:36.642 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 18:13:36.642 [main] BaseClass - Capabilities and local apppium server set and sent to android driver
+[INFO ] 2020-07-30 18:13:36.685 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 18:13:36.685 [main] BaseClass - Implicit wait set to 20 seconds
+[INFO ] 2020-07-30 18:13:37.006 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 18:13:37.006 [main] BaseClass - Application context got printed
+[INFO ] 2020-07-30 18:13:52.006 [main] LoginTest - Application name sent to the base class

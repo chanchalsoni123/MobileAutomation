@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Resources.ExtentReportTestNG"/>
+    <listener class-name="Resources.listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Petzey.AutomationTest.NotificationPageNavigationAfterLogin_Test">
+        <methods>
+          <include name="start_server"/>
+          <include name="mail"/>
+          <include name="notificationNavigation"/>
+        </methods>
+      </class> <!-- Petzey.AutomationTest.NotificationPageNavigationAfterLogin_Test -->
+      <class name="Petzey.AutomationTest.Onboarding_Pet_Test">
+        <methods>
+          <include name="start_server"/>
+          <include name="mail"/>
+          <include name="petOnboarding"/>
+        </methods>
+      </class> <!-- Petzey.AutomationTest.Onboarding_Pet_Test -->
+      <class name="Petzey.AutomationTest.LoginTest">
+        <methods>
+          <include name="start_server"/>
+          <include name="mail"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- Petzey.AutomationTest.LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

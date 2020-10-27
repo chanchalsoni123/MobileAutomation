@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+    <listeners>
+      <listener class-name="Resources.ExtentReportTestNG"/>
+      <listener class-name="Resources.listeners"/>
+      
+      
+    </listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+        <class name="Petzey.AutomationTest.Onboarding_Pet_Test"/>
+         <class name="Petzey.AutomationTest.LoginTest"/>
+         <class name= "Petzey.AutomationTest.NotificationPageNavigationAfterLogin_Test"/>
+         </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

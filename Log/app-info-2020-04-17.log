@@ -1,0 +1,10 @@
+[INFO ] 2020-07-30 14:41:13.823 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 14:41:13.823 [main] BaseClass - Global.prorperties path loaded
+[INFO ] 2020-07-30 14:41:13.944 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 14:41:13.944 [main] BaseClass - Global.prorperties file loaded successfully
+[INFO ] 2020-07-30 14:41:13.944 [main] BaseClass - apk file fetched from the properties file src\app-debug.apk
+[INFO ] 2020-07-30 14:41:13.944 [main] BaseClass - apk file fetched from the properties file src\app-debug.apk
+[INFO ] 2020-07-30 14:41:13.944 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 14:41:13.944 [main] BaseClass - Device name fetched form the properties fileEmulatorPixel32
+[INFO ] 2020-07-30 14:41:13.944 [main] BaseClass - Starting emulator...............
+[INFO ] 2020-07-30 14:41:13.944 [main] BaseClass - Starting emulator...............
